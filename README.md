@@ -1,5 +1,5 @@
 # ArsLabora
-## By humans, for humans
+## by humans; for humans
 
 - 🔭 I’m currently working on rpg games
 - 🌱 I’m currently learning godot
